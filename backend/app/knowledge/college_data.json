@@ -1,0 +1,251 @@
+{
+  "college_meta": {
+    "name": "Apex Institute of Technology & Sciences (AITS)",
+    "status": "Demonstration Data - Sample College Knowledge Base",
+    "disclaimer": "This is sample demonstration data configured for CollegeConnect AI. For actual official policies, always verify with your respective institutional administration.",
+    "established": "1998",
+    "campus_address": "Campus Square, Knowledge Park III, Tech Corridor, PIN: 560100",
+    "official_website": "https://aits-demo.edu",
+    "general_enquiry": "+91 (080) 2890-4400 / info@aits-demo.edu",
+    "emergency_helpline": "+91 (080) 2890-9999"
+  },
+  "sections": [
+    {
+      "id": "attendance-policy",
+      "category": "attendance",
+      "title": "College Attendance Regulations & Condonation Rules",
+      "document_code": "AITS-REG-2024-ATT01",
+      "department": "Dean of Academic Affairs",
+      "last_updated": "2024-08-15",
+      "keywords": ["attendance", "minimum", "75%", "condonation", "medical leave", "shortage", "detention", "portal", "eligibility"],
+      "content": "Apex Institute strictly enforces a minimum attendance requirement of 75% in each theory and practical subject to be eligible to appear for the end-semester examinations. Students with attendance between 65% and 74.9% may apply for medical condonation subject to submission of valid registered medical certificates within 3 working days of returning to campus and approval by the Academic Council. Students with attendance below 65% are categorically detained from taking the semester exam in that subject and must re-register for the course in the subsequent academic cycle. Daily attendance is updated every evening on the Student ERP Portal (erp.aits-demo.edu).",
+      "key_points": [
+        "Mandatory minimum attendance: 75% per subject",
+        "Medical condonation range: 65% - 74.9% (requires hospital certificate submitted within 3 days)",
+        "Attendance strictly below 65%: Mandatory course detention and re-registration",
+        "Live attendance tracker accessible on the Student ERP portal (erp.aits-demo.edu)"
+      ]
+    },
+    {
+      "id": "exam-schedule-regulations",
+      "category": "examinations",
+      "title": "Semester Examination Schedules, Backlogs & Evaluation Guidelines",
+      "document_code": "AITS-EXAM-2024-SCHED",
+      "department": "Controller of Examinations (CoE)",
+      "last_updated": "2024-09-01",
+      "keywords": ["exam", "examinations", "schedule", "semester exam", "mid-term", "practical", "backlog", "hall ticket", "re-evaluation", "dates"],
+      "content": "For the academic year 2024-2025, Odd Semester Examinations commence on December 2, 2024 and conclude on December 21, 2024. Practical and lab examinations are scheduled between November 20 and November 28, 2024. Mid-Term Continuous Internal Assessments (CIA) are held in the 8th week of each semester. Hall tickets are generated digitally on the student portal 7 days prior to examinations for eligible students with cleared dues and valid attendance. Backlog supplementary examinations run concurrently with regular semester exams. Applications for answer script photocopy and re-evaluation must be submitted within 10 days of grade publication with a prescribed scrutiny fee.",
+      "key_points": [
+        "Odd Semester Final Exams: December 2, 2024 – December 21, 2024",
+        "Practical/Lab Exams: November 20, 2024 – November 28, 2024",
+        "Hall Tickets: Released digitally 7 days before exams on ERP portal",
+        "Re-evaluation & Scrutiny: Applications open for 10 days post-results via CoE office",
+        "CoE Office Contact: coe@aits-demo.edu / Ground Floor, Administrative Block"
+      ]
+    },
+    {
+      "id": "bonafide-certificates",
+      "category": "student_services",
+      "title": "Bonafide Certificate, Transcripts & Identity Card Procedures",
+      "document_code": "AITS-ADM-2024-DOCS",
+      "department": "Registrar & Student Documentation Section",
+      "last_updated": "2024-07-20",
+      "keywords": ["bonafide", "certificate", "transcript", "id card", "lost id", "apply", "passport", "bus pass", "letter", "verification"],
+      "content": "To apply for a Bonafide Certificate (for passport, education loan, visa, or transport concession), students must log in to the Student ERP Portal -> Student Services -> 'Request Document'. Standard bonafide certificates are processed digitally and issued within 24 to 48 working hours without fee. For physical stamped copies, collect from Counter 3 of the Registrar Office between 2:00 PM and 4:30 PM. In case of lost ID cards, submit a written report along with receipt of Rs. 250 replacement fee paid at the accounts counter to receive a temporary card within 3 business days.",
+      "key_points": [
+        "Online application via Student ERP Portal -> Student Services -> Request Document",
+        "Standard digital processing time: 24 to 48 working hours",
+        "Counter collection: Registrar Office Counter 3 (2:00 PM - 4:30 PM)",
+        "Replacement ID card fee: Rs. 250 payable at Accounts Counter"
+      ]
+    },
+    {
+      "id": "placement-internships",
+      "category": "placements",
+      "title": "Placement Registration, Eligibility & Internship Policy",
+      "document_code": "AITS-TPO-2024-POL",
+      "department": "Training & Placement Cell (T&P)",
+      "last_updated": "2024-08-10",
+      "keywords": ["placement", "internship", "registration", "tpo", "jobs", "companies", "eligibility", "cgpa", "resume", "package"],
+      "content": "Final and pre-final year students must register on the Central Placement Portal (tpo.aits-demo.edu) by August 30 of their respective placement year. Baseline eligibility requires an overall cumulative CGPA of 6.50 or higher with zero active backlogs at the time of company registration. Required documents include: verified semester grade sheets, updated master resume adhering to the college LaTeX template, government photo ID, and conduct certificate. Companies visit in two phases: Phase 1 (Product/Dream Companies) from September to December, and Phase 2 (Core & IT Services) from January to May.",
+      "key_points": [
+        "Registration portal: tpo.aits-demo.edu",
+        "Eligibility threshold: Cumulative CGPA >= 6.50 and no active backlogs",
+        "Required documents: Verified marksheets, college-template resume, ID proof",
+        "Placement Cell location: 3rd Floor, Innovation Tower, Room 304",
+        "Placement Coordinator Email: placements@aits-demo.edu"
+      ]
+    },
+    {
+      "id": "admissions-courses",
+      "category": "admissions",
+      "title": "Admissions Procedure, Departments & Course Offerings",
+      "document_code": "AITS-ADM-2024-PROG",
+      "department": "Director of Admissions",
+      "last_updated": "2024-06-15",
+      "keywords": ["admission", "courses", "degrees", "btech", "mtech", "mba", "cse", "ece", "mechanical", "eligibility", "cutoff"],
+      "content": "AITS offers 4-year undergraduate B.Tech degrees in Computer Science & Engineering (CSE), Artificial Intelligence & Data Science (AI&DS), Electronics & Communication (ECE), Mechanical Engineering, and Information Technology. Postgraduate programs include M.Tech (VLSI, Software Systems) and MBA. Admission is based on State/National Entrance examinations (70% quota) and Institutional Merit/Management quota (30%). Candidates must have secured at least 60% aggregate in Physics, Mathematics, and Chemistry in 10+2 examinations.",
+      "key_points": [
+        "Undergraduate branches: CSE, AI&DS, ECE, Mechanical, IT",
+        "Postgraduate branches: M.Tech (VLSI, Software Systems), MBA",
+        "10+2 Eligibility: Minimum 60% aggregate in PCM",
+        "Admissions Cell Contact: admissions@aits-demo.edu / Block A, Room 102"
+      ]
+    },
+    {
+      "id": "fees-refund-policy",
+      "category": "finance",
+      "title": "Tuition Fees, Payment Modes & Official Deadline Inquiries",
+      "document_code": "AITS-FIN-2024-FEES",
+      "department": "Finance & Accounts Department",
+      "last_updated": "2024-07-01",
+      "keywords": ["fee", "tuition", "payment", "net banking", "challan", "dues", "deadline", "late fee", "hostel fee"],
+      "content": "Tuition and hostel fees must be remitted strictly through the official Student ERP payment gateway or designated bank challan at Canara Bank, Campus Branch. Cash payments are strictly prohibited. While general semester fee invoices are published at the commencement of each semester, specific deadline extensions and fine waivers require direct approval from the Finance Officer. If a specific fee deadline for an upcoming cycle is not listed on your dashboard, do not rely on rumors — contact the Accounts Office directly.",
+      "key_points": [
+        "Official payment channel: Student ERP Gateway / Bank Challan",
+        "Cash transactions: Strictly not accepted anywhere on campus",
+        "Accounts Office: Block A, Ground Floor (Window 1 & 2)",
+        "Accounts Email: accounts@aits-demo.edu",
+        "Missing deadlines notice: Must verify through the official Accounts Desk"
+      ]
+    },
+    {
+      "id": "scholarships-aid",
+      "category": "scholarships",
+      "title": "Student Scholarships, Merit Awards & Financial Assistance",
+      "document_code": "AITS-SCH-2024-AID",
+      "department": "Student Welfare & Scholarship Cell",
+      "last_updated": "2024-07-15",
+      "keywords": ["scholarship", "financial aid", "merit", "fee waiver", "means", "nsp", "sports scholarship", "concession"],
+      "content": "AITS provides multiple scholarship tiers: 1) Institutional Merit Scholarship granting a 50% tuition waiver to students ranking in the top 3% of their branch; 2) Need-Based Financial Grant for economically disadvantaged students with family income under 3.5 LPA; 3) Sports Excellence Scholarships for national and state-level athletes. In addition, the cell facilitates processing of National Scholarship Portal (NSP) and state minority welfare schemes. Applications open during the first month of every academic year.",
+      "key_points": [
+        "Merit Scholarship: 50% tuition waiver for top 3% branch rankers",
+        "Need-cum-Means Grant: For family income < 3.5 Lakhs/year",
+        "National Scholarship Portal (NSP) verification desk: Student Welfare Office",
+        "Contact: scholarships@aits-demo.edu"
+      ]
+    },
+    {
+      "id": "leave-application-procedure",
+      "category": "student_services",
+      "title": "Student Leave Application & Duty Leave Regulations",
+      "document_code": "AITS-REG-2024-LEAVE",
+      "department": "Office of the Dean of Student Affairs",
+      "last_updated": "2024-08-01",
+      "keywords": ["leave", "apply for leave", "sick leave", "duty leave", "on duty", "od", "leave procedure", "absence"],
+      "content": "Students requiring absence must submit a leave request via the Student ERP Portal at least 24 hours in advance for planned personal leaves. For medical emergencies, parent email notification to the Faculty Mentor within 48 hours is required. For representing the college in hackathons, sports, or academic conferences, an 'On-Duty (OD)' form counter-signed by the faculty coordinator and HOD must be submitted to the academic office within 3 days post-event to credit attendance.",
+      "key_points": [
+        "Planned leave: Apply on ERP portal at least 24 hours in advance",
+        "Medical absence: Parent notification to mentor within 48 hours + medical certificate",
+        "Duty Leave (OD): Requires faculty coordinator sign-off within 3 days post-event"
+      ]
+    },
+    {
+      "id": "library-labs",
+      "category": "campus_facilities",
+      "title": "Central Library Services, Digital Repository & Laboratory Guidelines",
+      "document_code": "AITS-LIB-2024-RES",
+      "department": "Central Library & Information Center",
+      "last_updated": "2024-08-20",
+      "keywords": ["library", "books", "borrow", "timing", "labs", "computers", "ieee", "digital library", "fine"],
+      "content": "The Dr. A.P.J. Abdul Kalam Central Library is open Monday to Saturday from 8:00 AM to 9:00 PM, and on Sundays/exam weeks from 9:00 AM to 5:00 PM. Undergraduate students can borrow up to 4 books for a duration of 14 days with one renewal permitted. Overdue fines are Rs. 5 per book per day. Remote access to digital databases including IEEE Xplore, ScienceDirect, and ACM Digital Library is available via the campus VPN. Campus computing labs are equipped with high-performance workstations and open during regular college hours under faculty supervision.",
+      "key_points": [
+        "Library Timings: 8:00 AM - 9:00 PM (Mon-Sat); 9:00 AM - 5:00 PM (Sundays/Exams)",
+        "Borrowing limit: 4 books for 14 days",
+        "Digital Access: IEEE, ACM, Springer via library.aits-demo.edu",
+        "Location: Central Academic Block, Floors 1 & 2"
+      ]
+    },
+    {
+      "id": "campus-facilities-services",
+      "category": "campus_facilities",
+      "title": "Campus Facilities, Transportation, Hostel & Health Care",
+      "document_code": "AITS-FAC-2024-SERVICES",
+      "department": "Estate & Campus Administration",
+      "last_updated": "2024-07-25",
+      "keywords": ["hostel", "transport", "bus", "canteen", "medical", "doctor", "health center", "gym", "wifi"],
+      "content": "AITS provides on-campus residential facilities with separate hostels for men and women, featuring 24/7 security, high-speed Wi-Fi, and laundry facilities. Hostel curfew is strictly 9:00 PM on weekdays and 9:30 PM on weekends. The campus Health Center operates 24/7 with a resident doctor and nursing staff, providing basic medical care and ambulance service. The college fleet of 25 buses covers all major city routes. Campus cafeteria and food court operate from 7:30 AM to 8:30 PM offering hygienic multi-cuisine options.",
+      "key_points": [
+        "Hostel Curfew: 9:00 PM (Weekdays), 9:30 PM (Weekends)",
+        "Health Center: 24/7 with resident doctor and ambulance on standby",
+        "Bus Transport: 25 routes; passes issued at Transport Office (Room 008)",
+        "Hostel Warden Office: +91 (080) 2890-4450"
+      ]
+    },
+    {
+      "id": "student-welfare-counseling",
+      "category": "student_welfare",
+      "title": "Student Welfare, Mental Health Counseling & Anti-Ragging Cell",
+      "document_code": "AITS-WEL-2024-CARE",
+      "department": "Dean of Student Welfare & Mental Health Support Unit",
+      "last_updated": "2024-08-01",
+      "keywords": ["stress", "counseling", "mental health", "anxiety", "exam stress", "depression", "welfare", "ragging", "anti-ragging", "bullying", "help"],
+      "content": "AITS is committed to student holistic well-being. The Student Wellness & Counseling Center offers free, confidential one-on-one sessions with licensed psychological counselors to help students deal with academic anxiety, exam stress, homesickness, depression, and personal challenges. Appointments can be scheduled online or walk-in at Harmony Building, 2nd Floor. AITS strictly maintains a ZERO-TOLERANCE policy against ragging or bullying. Any incident should be reported immediately to the Anti-Ragging Squad or 24/7 helpline.",
+      "key_points": [
+        "Confidential counseling sessions available for exam stress, anxiety, and personal well-being",
+        "Location: Harmony Building, 2nd Floor (Open Mon-Sat, 9:00 AM - 5:00 PM)",
+        "Confidential Counseling Email: counseling@aits-demo.edu",
+        "National Anti-Ragging Helpline: 1800-180-5522",
+        "Campus Anti-Ragging Officer: +91 (080) 2890-4499"
+      ]
+    },
+    {
+      "id": "academic-subjects-python",
+      "category": "academics",
+      "title": "Computer Science Syllabus & Programming Course (Python/Data Structures)",
+      "document_code": "AITS-CSE-2024-CURR",
+      "department": "Department of Computer Science & Engineering",
+      "last_updated": "2024-07-10",
+      "keywords": ["python", "programming", "course", "syllabus", "computer science", "lab", "coding", "cs101"],
+      "content": "Course Code CS102 'Problem Solving & Programming with Python' is a mandatory foundation credit course for all first-year engineering students. The curriculum covers Python syntax, data structures (lists, tuples, dictionaries), functional programming, OOP principles, and basic data visualization with Matplotlib. Laboratory assessments comprise 40 marks of continuous evaluation and 60 marks for semester end practicals. Extra lab hours and peer-tutoring sessions are organized every Wednesday afternoon in Lab 4.",
+      "key_points": [
+        "Course Code: CS102 (Problem Solving & Programming with Python)",
+        "Applicable to: 1st Year B.Tech students (Odd/Even Semesters)",
+        "Department: CSE Dept, 2nd Floor, Tech Block",
+        "Peer tutoring & coding doubts: Lab 4, Wednesdays 3:00 PM - 5:00 PM"
+      ]
+    }
+  ],
+  "frequently_asked_questions": [
+    {
+      "question": "What is the attendance requirement for my course?",
+      "answer": "The minimum attendance requirement across all courses is 75% per subject. If your attendance falls between 65% and 74.9%, you can apply for medical condonation by submitting medical certificates within 3 days. Below 65% results in course detention.",
+      "source_id": "attendance-policy"
+    },
+    {
+      "question": "How do I apply for a bonafide certificate?",
+      "answer": "Log in to your Student ERP Portal, navigate to 'Student Services' -> 'Request Document', and select 'Bonafide Certificate'. Digital copies are generated in 24-48 hours. Physical copies can be collected at Registrar Counter 3.",
+      "source_id": "bonafide-certificates"
+    },
+    {
+      "question": "When are semester examinations scheduled?",
+      "answer": "Odd Semester Examinations are scheduled from December 2, 2024 to December 21, 2024. Practical examinations take place from November 20 to November 28, 2024. Digital hall tickets are issued 7 days prior.",
+      "source_id": "exam-schedule-regulations"
+    },
+    {
+      "question": "What documents are required for placement registration?",
+      "answer": "You need verified copies of all semester grade sheets, your master resume prepared in the college LaTeX format, college ID card, and a government ID proof. Minimum cumulative CGPA required is 6.50 with no standing backlogs.",
+      "source_id": "placement-internships"
+    },
+    {
+      "question": "Where can I find the library and what are its timings?",
+      "answer": "The Central Library is located in the Central Academic Block, Floors 1 & 2. It is open Monday to Saturday from 8:00 AM to 9:00 PM and Sundays/exam days from 9:00 AM to 5:00 PM.",
+      "source_id": "library-labs"
+    },
+    {
+      "question": "How do I contact the examination department?",
+      "answer": "The Controller of Examinations (CoE) office is located on the Ground Floor of the Administrative Block. You can email them at coe@aits-demo.edu or visit during student inquiry hours (2:30 PM - 4:30 PM).",
+      "source_id": "exam-schedule-regulations"
+    },
+    {
+      "question": "What is the procedure for applying for leave?",
+      "answer": "Submit a leave application through the Student ERP portal at least 24 hours prior. For sudden illness, notify your faculty mentor via parent email within 48 hours and submit medical documents upon return.",
+      "source_id": "leave-application-procedure"
+    },
+    {
+      "question": "What scholarships are available to students?",
+      "answer": "AITS offers 50% tuition fee waivers for top 3% academic rankers, need-based assistance for families with income under 3.5 LPA, sports quotas, and government scheme facilitation via the National Scholarship Portal (NSP).",
+      "source_id": "scholarships-aid"
+    }
+  ]
+}
